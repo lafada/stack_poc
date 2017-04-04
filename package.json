@@ -1,0 +1,19 @@
+{
+  "name": "stack_poc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "body-parser": "^1.15.0",
+    "bower": "^1.7.9",
+    "express": "^4.13.4",
+    "gulp": "^3.9.1",
+    "gulp-connect": "^3.2.2",
+    "jsonfile": "^2.3.0"
+  }
+}
